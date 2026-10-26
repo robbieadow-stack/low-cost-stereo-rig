@@ -1,0 +1,4 @@
+numpy
+opencv-python
+torch
+# plus the requirements of RAFT-Stereo itself (see its README)

@@ -1,0 +1,4 @@
+numpy
+opencv-python
+scipy
+# picamera2 comes from the Raspberry Pi OS packages: sudo apt install python3-picamera2

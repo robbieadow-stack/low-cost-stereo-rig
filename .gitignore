@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.DS_Store
+captures/
+*.ply
+*.pth
+pi/calibration/*.npz
+raft/*.npz
